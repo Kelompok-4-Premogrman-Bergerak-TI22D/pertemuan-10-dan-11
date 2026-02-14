@@ -1,0 +1,7 @@
+{
+  "name": "client-crud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
